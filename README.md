@@ -1,12 +1,12 @@
-## Kütüphaneler
+## Libraries
 
 - axios
 - react-icons
 - react-router-dom
-- react-player (video oynatıcı)
-- millify (sayı formatlama)
-- moment (zaman formatlama)
-- tailwind (stillendirme)
+- react-player (video player)
+- millify (number format)
+- moment (time format)
+- tailwind (style)
 
 ## API
 
